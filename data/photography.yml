@@ -2,12 +2,16 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
-      - image: '/images/photography/boat-victoria-bc.jpg'
-        name: Victoria, BC
-        date: '2021-12-19'
-      - image: '/images/photography/fisherman_wharf-victoria-bc.jpg'
-        name: Firsherman's Wharf - Victoria, BC
-        date: '2021-12-19'
+      - image: '/images/photography/clover_point-victoria-bc.jpg'
+        name: Clover Point - Victoria, BC
+        date: '2021-12-31'
       - image: '/images/photography/bc_legislative-victoria-bc.jpg'
         name: BC Legislative - Victoria, BC
         date: '2021-12-20'
+      - image: '/images/photography/fisherman_wharf-victoria-bc.jpg'
+        name: Firsherman's Wharf - Victoria, BC
+        date: '2021-12-19'
+      - image: '/images/photography/boat-victoria-bc.jpg'
+        name: Victoria, BC
+        date: '2021-12-19'
+      

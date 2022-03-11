@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/mt_douglas_beach-victoria-bc.jpg'
+        name: Mt. Douglas Beach - Victoria, BC
+        date: '2021-03-05'
       - image: '/images/photography/clover_point-victoria-bc.jpg'
         name: Clover Point - Victoria, BC
         date: '2021-12-31'

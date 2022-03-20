@@ -69,7 +69,7 @@ icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/oscarcosta"
 
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:oscarcosta@gmail.com"
+# [[socialIcons]]
+# icon = "fas fa-envelope"
+# title = "e-mail"
+# url = "mailto:oscarcosta@gmail.com"

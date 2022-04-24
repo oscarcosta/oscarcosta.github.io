@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/boat-2-victoria-bc.jpg'
+        name: Finlayson Point - Victoria, BC
+        date: '2021-03-05'
       - image: '/images/photography/mt_douglas_beach-victoria-bc.jpg'
         name: Mt. Douglas Beach - Victoria, BC
         date: '2021-03-05'

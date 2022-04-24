@@ -4,10 +4,10 @@ portfolioitems:
     portfolioitem:
       - image: '/images/photography/boat-2-victoria-bc.jpg'
         name: Finlayson Point - Victoria, BC
-        date: '2021-03-05'
+        date: '2022-04-23'
       - image: '/images/photography/mt_douglas_beach-victoria-bc.jpg'
         name: Mt. Douglas Beach - Victoria, BC
-        date: '2021-03-05'
+        date: '2022-03-05'
       - image: '/images/photography/clover_point-victoria-bc.jpg'
         name: Clover Point - Victoria, BC
         date: '2021-12-31'

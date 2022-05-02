@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/selkirk_trestle-victoria-bc.jpg'
+        name: Selkirk Trestle - Victoria, BC
+        date: '2022-04-30'
       - image: '/images/photography/boat-2-victoria-bc.jpg'
         name: Finlayson Point - Victoria, BC
         date: '2022-04-23'

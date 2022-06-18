@@ -11,6 +11,9 @@ portfolioitems:
       - image: '/images/photography/mt_douglas_beach-victoria-bc.jpg'
         name: Mt. Douglas Beach - Victoria, BC
         date: '2022-03-05'
+      - image: '/images/photography/george-park-victoria-bc.jpg'
+        name: George Park - Victoria, BC
+        date: '2022-02-12'
       - image: '/images/photography/clover_point-victoria-bc.jpg'
         name: Clover Point - Victoria, BC
         date: '2021-12-31'

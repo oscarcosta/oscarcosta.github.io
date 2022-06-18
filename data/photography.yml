@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/tod-inlet-victoria-bc.jpg'
+        name: Tod Inlet - Victoria, BC
+        date: '2022-05-07'
       - image: '/images/photography/selkirk_trestle-victoria-bc.jpg'
         name: Selkirk Trestle - Victoria, BC
         date: '2022-04-30'

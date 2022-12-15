@@ -67,3 +67,8 @@ url = "https://github.com/oscarcosta"
 icon = "fab fa-twitter"
 title = "twitter"
 url = "https://twitter.com/oscarcosta"
+
+[[socialIcons]]
+icon = "fab fa-mastodon"
+title = "mastodon"
+url = "https://techhub.social/@oscarcosta"

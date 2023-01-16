@@ -23,7 +23,8 @@
               {{ end }}"
               style="width: 85%;"
             >
-              <a href="{{ .link | safeURL }}" target="_blank" rel="noopener">
+              <a href="{{ .image | relURL }}" target="_blank" rel="noopener" 
+                data-lightbox="photo_portfolio" data-title="{{ .name | markdownify }}">
                 <img class="portfolio__image" src="{{ .image | relURL }}" alt="{{ .name | markdownify }}" />
               </a>
             </div>

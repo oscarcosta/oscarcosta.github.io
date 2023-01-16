@@ -1,6 +1,6 @@
 title = "Oscar Costa"
 author = "Oscar Costa"
-#copyright = "2020-2023"
+copyright = "2022-{{ YEAR }}"
 description = """
   Software developer, compsci researcher, hobbyist photographer, weekend mountain biker, casual runner, former metal bass player...
 """
@@ -8,9 +8,9 @@ profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/lightbox.min.css"]
 # example ["js/custom.js"]
-customJs = [] 
+customJs = ["js/lightbox-plus-jquery.min.js"] 
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false

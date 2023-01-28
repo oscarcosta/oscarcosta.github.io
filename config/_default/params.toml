@@ -2,7 +2,7 @@ title = "Oscar Costa"
 author = "Oscar Costa"
 copyright = "2022-{{ YEAR }}"
 description = """
-  Software developer, compsci researcher, hobbyist photographer, weekend mountain biker, casual runner, former metal bass player...
+  Software Developer, CompSci MSc, hobbyist photographer, weekend mountain biker, casual runner, former metal bass player...
 """
 profilePicture = "images/profile.jpg"
 keywords = ""

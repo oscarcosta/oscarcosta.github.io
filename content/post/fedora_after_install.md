@@ -261,6 +261,8 @@ Then, install Node.js using nvm: `$ nvm install v18`
 
 **Balena Etcher**: Download the AppImage from https://etcher.balena.io/ and run it.
 
+**Calibre**: Install it via **Gnome Sofware**.
+
 **NordVPN**: Download and run NordVPN install script. This script add the NordVPN repo and install the nordvpn package. 
 
 ```bash

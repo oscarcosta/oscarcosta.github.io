@@ -116,6 +116,10 @@ $ sudo dnf install skypeforlinux
 
 *Reference: https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/*
 
+**Zoom**: Download Zoom client from official website https://zoom.us/download?os=linux, then install the RPM package using the command: `$ sudo dnf localinstall zoom zoom_x86_64.rpm`
+
+*Reference: https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_825b50ac-ad15-44a8-9959-28c97e4803ef*
+
 ### 2.5 Browsers
 
 **Google Chrome**: Enable Google Chrome repo and install the stable Chrome package.

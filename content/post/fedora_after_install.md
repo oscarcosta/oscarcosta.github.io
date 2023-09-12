@@ -113,10 +113,11 @@ $ sudo dnf install -y unzip p7zip p7zip-plugins unrar
 $ sudo curl -o /etc/yum.repos.d/skype-stable.repo https://repo.skype.com/rpm/stable/skype-stable.repo
 $ sudo dnf install skypeforlinux
 ```
+Alternatively, download the last version of Skype from official repository https://repo.skype.com/rpm/stable/, then install the RPM package using the command `$ sudo dnf localinstall skypeforlinux_<VERSION>.rpm`
 
 *Reference: https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/*
 
-**Zoom**: Download Zoom client from official website https://zoom.us/download?os=linux, then install the RPM package using the command: `$ sudo dnf localinstall zoom zoom_x86_64.rpm`
+**Zoom**: Download Zoom client from official website https://zoom.us/download?os=linux, then install the RPM package using the command: `$ sudo dnf localinstall zoom_x86_64.rpm`
 
 *Reference: https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux#h_825b50ac-ad15-44a8-9959-28c97e4803ef*
 

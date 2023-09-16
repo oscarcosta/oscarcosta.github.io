@@ -8,7 +8,7 @@ profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = ["css/lightbox.min.css"]
+customCss = ["css/lightbox.min.css", "css/custom.css"]
 # example ["js/custom.js"]
 customJs = ["js/lightbox-plus-jquery.min.js"] 
 mainSections = ["post"]

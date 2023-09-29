@@ -17,6 +17,9 @@ Few free to reach me on my social networks.
     <img class="badge__image" src="/images/badges/awscpf.png" alt="AWS Certified Cloud Practitionar" />
   </div>
   <div class="column">
+    <img class="badge__image" src="/images/badges/OCI2023CAA.png" alt="Oracle Cloud Infrastructure 2023 Certified Architect Associate" />
+  </div>
+  <div class="column">
     <img class="badge__image" src="/images/badges/OCI23MCCA.png" alt="Oracle Certified Associate OCI Multicloud Architect 2023" />
   </div>
   <div class="column">

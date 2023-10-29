@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/cattle_point-victoria-bc.jpg'
+        name: Catle Point - Victoria, BC
+        date: '2023-10-28'
       - image: '/images/photography/tod-inlet-victoria-bc.jpg'
         name: Tod Inlet - Victoria, BC
         date: '2022-05-07'

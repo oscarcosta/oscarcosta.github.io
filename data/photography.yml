@@ -3,10 +3,10 @@ portfolioitems:
   - title: Photography
     portfolioitem:
       - image: '/images/photography/cattle_point-victoria-bc.jpg'
-        name: Catle Point - Victoria, BC
+        name: Catle Point - Oak Bay, BC
         date: '2023-10-28'
       - image: '/images/photography/tod-inlet-victoria-bc.jpg'
-        name: Tod Inlet - Victoria, BC
+        name: Tod Inlet - Brentwood Bay, BC
         date: '2022-05-07'
       - image: '/images/photography/selkirk_trestle-victoria-bc.jpg'
         name: Selkirk Trestle - Victoria, BC
@@ -18,7 +18,7 @@ portfolioitems:
         name: Mt. Douglas Beach - Victoria, BC
         date: '2022-03-05'
       - image: '/images/photography/george-park-victoria-bc.jpg'
-        name: George Park - Victoria, BC
+        name: Esquimalt Gorge Park & Pavilion - Victoria, BC
         date: '2022-02-12'
       - image: '/images/photography/clover_point-victoria-bc.jpg'
         name: Clover Point - Victoria, BC
@@ -33,7 +33,7 @@ portfolioitems:
         name: Holland Point Park - Victoria, BC
         date: '2021-12-19'
       - image: '/images/photography/fall_branch-victoria-bc.jpg'
-        name: Swan Lake - Victoria, BC
+        name: Swan Lake - Saanich, BC
         date: '2021-11-20'
       - image: '/images/photography/museum-pop-culture-seattle-wa.jpg'
         name: Museum Pop Culture - Seattle, WA

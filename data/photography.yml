@@ -3,11 +3,14 @@ portfolioitems:
   - title: Photography
     portfolioitem:
       - image: '/images/photography/mt_baker-victoria-bc.jpg'
-        name: Mount Baker - Washington, US
+        name: Mount Baker - Whatcom County, WA
         date: '2024-01-01'
       - image: '/images/photography/cattle_point-victoria-bc.jpg'
         name: Catle Point - Oak Bay, BC
         date: '2023-10-28'
+      - image: '/images/photography/downtown-toronto-on.jpg'
+        name: Downtown - Toronto, ON
+        date: '2023-08-05'
       - image: '/images/photography/tod-inlet-victoria-bc.jpg'
         name: Tod Inlet - Brentwood Bay, BC
         date: '2022-05-07'

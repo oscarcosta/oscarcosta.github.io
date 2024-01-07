@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/mt_baker-victoria-bc.jpg'
+        name: Mount Baker - Washington, US
+        date: '2024-01-01'
       - image: '/images/photography/cattle_point-victoria-bc.jpg'
         name: Catle Point - Oak Bay, BC
         date: '2023-10-28'

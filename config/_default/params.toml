@@ -72,3 +72,8 @@ url = "https://twitter.com/oscarcosta"
 icon = "fab fa-mastodon"
 title = "mastodon"
 url = "https://techhub.social/@oscarcosta"
+
+[[socialIcons]]
+icon = "fas fa-link"
+title = "lattes"
+url = "http://lattes.cnpq.br/3974568256965780"

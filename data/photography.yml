@@ -2,6 +2,9 @@ portfolioitems:
   # portfolio category
   - title: Photography
     portfolioitem:
+      - image: '/images/photography/aurora-borealis-victoria-bc.jpg'
+        name: Catle Point - Oak Bay, BC
+        date: '2024-05-10'
       - image: '/images/photography/mt_baker-victoria-bc.jpg'
         name: Mount Baker - from Oak Bay, BC
         date: '2024-01-01'

@@ -76,9 +76,4 @@ url = "https://techhub.social/@oscarcosta"
 [[socialIcons]]
 icon = "fab fa-bluesky"
 title = "bluesky"
-url = "https://bsky.app/profile/oscarcosta.dev"
-
-[[socialIcons]]
-icon = "fas fa-link"
-title = "lattes"
-url = "http://lattes.cnpq.br/3974568256965780"
+url = "https://bsky.app/oscarcosta.dev"

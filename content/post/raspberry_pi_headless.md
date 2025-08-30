@@ -75,9 +75,10 @@ sudo raspi-config
 
 As configurações variam conforme a utilização, mas as opções que geralmente altero são as seguintes:
 
-- *Localisation settings*: `5 Localisation Options -> Timezone` e `5 Localisation Options -> WLAN Country`
-- *Expand the filesystem*: `6 Advanced Options -> A1 Expand Filesystem`
+- *Logging* `1 System Options -> S10 Logging -> 3 Persistent`
 - *Fan settings*: `4 Performance Options -> P3 Fan`
+- *Localisation settings*: `5 Localisation Options`
+- *Expand the filesystem*: `6 Advanced Options -> A1 Expand Filesystem`
 
 Neste ponto, as configurações iniciais estão concluídas. Agora basta reiniciar o Raspberry Pi, e o sistema estará pronto para uso.
 

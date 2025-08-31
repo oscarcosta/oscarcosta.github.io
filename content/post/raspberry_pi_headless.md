@@ -75,7 +75,7 @@ sudo raspi-config
 
 As configurações variam conforme a utilização, mas as opções que geralmente altero são as seguintes:
 
-- *Logging* `1 System Options -> S10 Logging -> 3 Persistent`
+- *Logging*: `1 System Options -> S10 Logging -> 3 Persistent`
 - *Fan settings*: `4 Performance Options -> P3 Fan`
 - *Localisation settings*: `5 Localisation Options`
 - *Expand the filesystem*: `6 Advanced Options -> A1 Expand Filesystem`

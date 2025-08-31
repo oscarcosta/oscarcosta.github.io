@@ -75,10 +75,10 @@ sudo raspi-config
 
 As configurações variam conforme a utilização, mas as opções que geralmente altero são as seguintes:
 
-- *Logging*: `1 System Options -> S10 Logging -> 3 Persistent`
-- *Fan settings*: `4 Performance Options -> P3 Fan`
-- *Localisation settings*: `5 Localisation Options`
-- *Expand the filesystem*: `6 Advanced Options -> A1 Expand Filesystem`
+- *Logging* -- para persistir os logs no disco, facilitando depurar erros -- `1 System Options -> S10 Logging -> 3 Persistent`
+- *Fan settings* -- para que a ventoinha só ligue quando necessário -- `4 Performance Options -> P3 Fan`
+- *Localisation settings* -- para deixar o sistema no fuso horário correto -- `5 Localisation Options`
+- *Expand the filesystem* -- para ter acesso a todo espaço do disco -- `6 Advanced Options -> A1 Expand Filesystem`
 
 Neste ponto, as configurações iniciais estão concluídas. Agora basta reiniciar o Raspberry Pi, e o sistema estará pronto para uso.
 
